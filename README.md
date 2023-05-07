@@ -59,6 +59,6 @@ You can reach us at:
 - **Phone**: 555-1234.
 - **Email**: info@oceanrestaurant.com .
 - **Address**: 123 Ocean Drive, Anytown Irbid.
-- **LinkedIn** : [my account](www.linkedin.com/profile)
+- **LinkedIn** : [my account](www.linkedin.com/profile/eman)
 
 
