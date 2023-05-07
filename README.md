@@ -16,32 +16,37 @@
 
 ### Individual ocean meals
 
-1. Salmon shish  ![Salmon shish photo ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fselecthealth.org%2Fblog%2F2020%2F06%2Fgrilled-salmon-kebabs&psig=AOvVaw2uMd0xDXDpzVYJpuI0DZ3c&ust=1683575635404000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDN26H_4_4CFQAAAAAdAAAAABAE)
-2. Mix sea food dish ![mix sea food dish](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fmixed-seafood-recipe--674554850439410590%2F&psig=AOvVaw1N3SmUWsqhCtPdPeHz8nVv&ust=1683576316690000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjVveeB5P4CFQAAAAAdAAAAABAE)
-3. Salmon steak with garlic lemon sauce ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wellplated.com%2Fgarlic-salmon%2F&psig=AOvVaw0ep8vgMOsBWtYS7Z9bEgR-&ust=1683576448068000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNit66WC5P4CFQAAAAAdAAAAABAJ)
+1. Salmon shish  ![Salmon shish photo ](https://files.selecthealth.cloud/api/public/content/221545-Salmon_Kebabs_blog_lg.jpg)
+
+2. Mix sea food dish ![mix sea food dish](https://images.eatsmarter.com/sites/default/files/styles/576x432/public/spanish-rice-with-mixed-seafood-511825.jpg)
+
+3. Salmon steak with garlic lemon sauce : ![Salmon steak with garlic lemon sauce ](https://www.cookingclassy.com/wp-content/uploads/2017/02/skillet-seared-salmon-2.jpg)
 
 ### cold appetizer
 
 
-1. shrimp ceasar![shrimp ceasar](image.jpg)
-2. Hommus ![Hummas](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcookingwithayeh.com%2Fhummus-recipe%2F&psig=AOvVaw1dJTUCtDcGXiHTRD0Hl1AZ&ust=1683577394150000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjAt-iF5P4CFQAAAAAdAAAAABAE)
+1. shrimp ceasar![shrimp ceasar](https://food-fanatic-res.cloudinary.com/iu/s--KyLPhOK9--/t_xlarge_l/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1469114722/spicy-shrimp-caesar-photo.jpg)
 
-3. Tabula![Tabula](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fpt%2Fsearch%2Ftabula&psig=AOvVaw0-7hHyB80ZAwybKudHzGLl&ust=1683577451329000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICdzYOG5P4CFQAAAAAdAAAAABAE)
+2. Hommus ![Hummas](https://cookingwithayeh.com/wp-content/uploads/2020/11/Best-Hummus-1-768x960.jpg)
+
+3. Tabula![Tabula](https://media-cdn.tripadvisor.com/media/photo-s/07/46/f3/7e/tabula.jpg)
 
 
 ### Soups
 
-1. shrimp with veg soup![shrimp soup](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lekhafoods.com%2Fen%2Fsoup-recipes%2Fprawn-and-vegetable-soup%2F&psig=AOvVaw1-NWHWN89aj6WdKMg9miwQ&ust=1683577087904000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCZqNaE5P4CFQAAAAAdAAAAABAE)
+1. ***shrimp with veg soup*** ![shrimp soup](https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/12/24/0/FNM_010120-Hot-and-Sour-Shrimp-Noodle-Soup_s4x3.jpg.rend.hgtvcom.826.620.suffix/1577211995054.jpeg)
 
-2. Smoke salmon with cream soup ![smoke soup](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhouseofnasheats.com%2Fsmoked-salmon-chowder%2F&psig=AOvVaw2HqcKMsIqmML6_Xa_vuk4P&ust=1683577194757000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDRo4mF5P4CFQAAAAAdAAAAABAE)
+2. ***Smoke salmon with cream soup*** ![smoke soup](https://assets.epicurious.com/photos/560d9aae7b55306961bf7949/1:1/w_1600,c_limit/240816_hires.jpg)
 
-3. seafood mix soup double![seafood soup](https://www.google.com/url?sa=i&url=https%3A%2F%2Fzestfulkitchen.com%2Fseafood-soup-recipe%2F&psig=AOvVaw0YmAeK5V0iWHy9PmK_PYbH&ust=1683577266391000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjivKuF5P4CFQAAAAAdAAAAABAE)
+3. ***seafood mix soup double*** ![seafood soup](https://soufflebombay.com/wp-content/uploads/2021/03/DSC_1209-1536x1024.jpg)
 
+----
 ## Contact Us
 
 You can reach us at:
 
-- Phone: 555-1234
-- Email: info@oceanrestaurant.com
-- Address: 123 Ocean Drive, Anytown Irbid
+- **Phone**: 555-1234.
+- **Email**: info@oceanrestaurant.com .
+- **Address**: 123 Ocean Drive, Anytown Irbid.
+- **LinkedIn** : [my account](www.linkedin.com/profile)
 
