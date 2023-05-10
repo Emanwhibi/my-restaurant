@@ -45,3 +45,15 @@ footer{
     flex-direction: row;
     background-color: rgb(120, 184, 184);
 }
+.section ol #main-dish {
+    color:rgb(6, 41, 103);
+    font-size:30px;
+    margin-bottom: 20px;
+    margin-top:20px;
+}
+.section ol li {
+    color:rgb(103, 6, 93);
+    font-size:20px;
+    margin-bottom: 5px;
+   
+}
