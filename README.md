@@ -1,5 +1,8 @@
 # my-restaurant
 
+# wireframe
+![wireframe](./Screenshot%202023-05-09%20233104.png)
+---
 
 # Welcome to  **The Ocean** Restaurant!
 
