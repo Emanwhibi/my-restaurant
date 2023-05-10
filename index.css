@@ -1,0 +1,47 @@
+h2{
+    color:red;
+}
+.section ol  ul img{
+    height:150px;
+    width:200px;
+
+}
+.section ol  ul{
+    display: flex;
+    flex-direction: row;
+    gap:35px;
+}
+header{
+    display:flex;
+    flex-direction: row;
+    background-color: rgb(120, 184, 184);
+}
+.logo{
+    display:flex;
+    flex-direction: row;
+
+}
+.logo img{
+    height:100px;
+    width:100px;
+}
+header nav ul li a {
+   color:rgb(72, 31, 31);
+    font-size:25px;
+    text-decoration: none; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header nav ul{
+text-decoration: none; 
+    display:flex;
+    flex-direction: row;
+    gap:40px;
+    margin-left:150px;
+   
+   
+}
+footer{
+    display:flex;
+    flex-direction: row;
+    background-color: rgb(120, 184, 184);
+}
